@@ -36,3 +36,9 @@ Apsolutno je zabranjeno čuvanje (hardkodovanje) kredencijala u okviru YAML defi
 ### Bitne napomene:
 * Rok za izradu domaćeg zadatka je **23. maj 2026**.
 * Ukoliko se potencijalno jave problemi sa Konfiguracijom i bezbednošću imate pravo da uradite fork repozitorijuma u okviru ličnog GitHub naloga i da zadatak uradite kroz taj repozitrorijum. Dodatno, potrebno je na repozitorijumu domaćeg zadatka u README fajlu u okviru develop grane ostaviti link do fork-ovanog repozitorijuma ukoliko se odlučite za ovakav vid izrade.
+
+## Fork repozitorijuma
+
+Zadatak je realizovan kroz fork repozitorijuma zbog ograničenja pristupa na originalnom repozitorijumu (nije bilo moguće dodati GitHub Secrets ni upravljati branch protection pravilima bez vlasničkih prava).
+
+**Link do fork repozitorijuma:** https://github.com/pavicevicjovana/rnaep-ci-cd-zadatak05-pavicevicjovana
